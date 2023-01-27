@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocket blog" title="#rocket-blog" src="./.github/capa.png">
+  <img alt="rocket blog" title="#rocket-blog" src="./.github/tela.png">
 </p>    
 
 ### 💻 Sobre o desafio 
@@ -40,13 +40,12 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 
 ![desktop.png](./.github/desktop.png)
 
-Você pode visualizar o template do projeto clicando [neste link](https://www.figma.com/file/r4CsL6MPTAvE7EvJXjhFK4/DD-RocketBlog/duplicate) 
-
-Neste desafio você vai desenvolver uma homepage para um blog*.* Caso você ainda não tenha feito os cursos do Discover ou queira fazer uma revisão, segue abaixo uma lista dos cursos e documentações que podem te ajudar a resolver este desafio.
+Você pode visualizar o template do projeto no [Figma](https://www.figma.com/file/r4CsL6MPTAvE7EvJXjhFK4/DD-RocketBlog/duplicate). Neste desafio você vai desenvolver uma homepage para um blog.
 
 #### ✅ **Requisitos para o [desafio](https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e):**
 
-- [ ] Seguir o layout do Figma.
+- [ ] estrutura do html
+- [ ] posicionamento
 
 ### 🎨 Style Guide
 
@@ -65,7 +64,7 @@ Neste desafio você vai desenvolver uma homepage para um blog*.* Caso você aind
 
 #### 🎨 Fontes
 
-- [ ] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
+- [x] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
 - font-family: Poppins. Font Weight: 700
 - font-family: Roboto. Font Weight: 400 e 700
  
@@ -75,9 +74,12 @@ Esses desafios **não precisam ser entregues** e não receberão correção. Ap�
 
 #### 📅 Gestão do projeto
 
-- [ ] Organizando os detalhes do projeto no readme.md
-- [ ] Uma branch main e uma developer, uma branch para cada tarefa
-- [ ] Favicon
+- [x] Organizando os detalhes do projeto no readme.md
+- [x] Uma branch main e uma developer, uma branch para cada tarefa
+- [x] Favicon
+
+#### 📅 Aperfeiçoar em detalhes
+
 - [ ] [Learn Responsive Design](https://web.dev/learn/design/)
 - [ ] [Learn CSS](https://web.dev/learn/css/)
 
