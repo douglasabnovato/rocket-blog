@@ -70,7 +70,7 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
  
 ### 📅 Entrega
  
-Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, listados e descritos as tarefas em readme.
 
 #### 📅 Gestão do projeto
 
