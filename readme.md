@@ -27,14 +27,14 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 
 ### 💡 Conteúdos Aplicados
 
-- [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
-- [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
-- [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes)
-- [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)
-- [Alinhando os planetas](https://app.rocketseat.com.br/node/flexbox)
-- [App bonito, até nos textos](https://app.rocketseat.com.br/node/flexbox)
-- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
+- [ ] [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
+- [ ] [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes)
+- [ ] [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)
+- [ ] [Alinhando os planetas](https://app.rocketseat.com.br/node/flexbox)
+- [ ] [App bonito, até nos textos](https://app.rocketseat.com.br/node/flexbox)
+- [ ] [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### ✅ **Requisitos**
 
