@@ -45,7 +45,10 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
 #### ✅ **Requisitos para o [desafio](https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e):**
 
 - [x] estrutura do html
-- [ ] posicionamento
+- [ ] menu
+- [ ] home
+- [ ] destaques
+- [ ] posts
 
 ### 🎨 Style Guide
 

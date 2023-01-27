@@ -25,18 +25,19 @@ body {
 
 .home {
     background: var(--purple-bg);
-    color: var(--white);
-    left: 0px;
-    top: 0px;
-    width: 100vw;
-    height: 30vh;
+    color: var(--white); 
+}
+
+header {
+    padding: 4rem; 
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
 }
 
 .content { 
     background: var(--light-purple);
-    color: var(--black);
-    left: 0px;  
-    top: 30.5vh;
-    width: 100vw;
-    height: 70vh;
+    color: var(--black); 
 }
