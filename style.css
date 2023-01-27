@@ -1,12 +1,11 @@
 :root {
-    --body-background: #0e0e0e;
-    --color-logo: #ff5b50;
-    --card-color: #252525;
-    --text-color: #fff;
-    --subtitle-color: #5a5757;
-    --black-text: #000;
-    --color-input: #0D0D0D;
-}
+    --purple-bg: #290742;
+    --dark-bg: #170027;
+    --button-bg: #9e6dc2;
+    --white: #fff;
+    --light-purple: #fbf6ff;
+    --green: #4fff4b;
+  }
 
 * {
     margin: 0;
@@ -17,9 +16,9 @@
 body {
     width: 100vw;
     height: 100vh;
-    background: var(--body-background);
+    background: var(--dark-bg);
 }
 
 div {
-    color: var(--text-color);
+    color: var(--white);
 }
