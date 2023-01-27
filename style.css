@@ -5,6 +5,7 @@
     --dark-bg: #170027;
     --button-bg: #9e6dc2;
     --white: #fff;
+    --black: #000;
     --light-purple: #fbf6ff;
     --green: #4fff4b;
   }
@@ -16,14 +17,26 @@
 }
 
 body {
-    width: 100vw;
-    height: 100vh;
     background: var(--dark-bg);
     font-family: Poppins, sans-serif;
     font-weight: 700;
     font-size: 22px;
 }
 
-div {
+.home {
+    background: var(--purple-bg);
     color: var(--white);
+    left: 0px;
+    top: 0px;
+    width: 100vw;
+    height: 30vh;
+}
+
+.content { 
+    background: var(--light-purple);
+    color: var(--black);
+    left: 0px;  
+    top: 30.5vh;
+    width: 100vw;
+    height: 70vh;
 }
