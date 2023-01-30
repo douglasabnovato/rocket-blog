@@ -8,6 +8,8 @@
     --black: #000;
     --light-purple: #fbf6ff;
     --green: #4fff4b;
+    --instagram: #bc2a8d;
+    --linkedin: #1c66c2;
 }
 
 * {
@@ -295,16 +297,16 @@ footer .social ul li a:hover {
 }
 
 footer .social ul li.instagram a:hover {
-    background: #bc2a8d;
-    border-radius: 10px;
+    background: var(--instagram);
+    border-radius: 12px;
 }
 
 footer .social ul li.github a:hover {
     background: var(--black);
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 footer .social ul li.linkedin a:hover {
-    background: #1c66c2;
-    border-radius: 10px;
+    background: var(--linkedin);
+    border-radius: 12px;
 }
