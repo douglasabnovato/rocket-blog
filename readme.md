@@ -50,7 +50,10 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
 - [x] destaques
 - [x] posts
 - [x] seção rodá
-- [ ] responsividade das divs
+
+### ✅ Próximos passos
+
+- [ ] responsividade
 - [ ] responsividade das imagens
 - [ ] funcionalidade search
 - [ ] perfect pixel
