@@ -31,8 +31,8 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 - [x] [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
 - [x] [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes)
 - [x] [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)
-- [ ] [Alinhando os planetas](https://app.rocketseat.com.br/node/flexbox) : fazendo
-- [ ] [App bonito, até nos textos](https://app.rocketseat.com.br/node/flexbox)
+- [x] [Alinhando os planetas](https://app.rocketseat.com.br/node/flexbox)
+- [ ] [App bonito, até nos textos](https://app.rocketseat.com.br/node/flexbox) : fazendo
 - [ ] [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
@@ -49,6 +49,10 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
 - [ ] home
 - [ ] destaques
 - [ ] posts
+- [ ] responsividade das divs
+- [ ] responsividade das imagens
+- [ ] funcionalidade search
+- [ ] seção rodá
 
 ### 🎨 Style Guide
 

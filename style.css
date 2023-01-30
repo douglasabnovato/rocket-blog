@@ -17,6 +17,7 @@
 }
 
 body {
+    min-height: 100vh;
     background: var(--dark-bg);
     font-family: Poppins, sans-serif;
     font-weight: 700;
@@ -51,7 +52,33 @@ nav ul li:last-child {
     padding: .8rem;
 }
 
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5rem;
+    justify-content: center;
+}
+
+.container .text-group {
+    flex-basis: 40%;
+}
+
+.container .feature-image {
+    flex: 1;
+}
+
 .content { 
     background: var(--light-purple);
     color: var(--black); 
+}
+
+footer {
+    margin-top: auto;
+    background: gray;
+    color: white;
+    height: 8rem;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
