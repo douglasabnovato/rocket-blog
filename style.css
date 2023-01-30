@@ -201,11 +201,11 @@ main .home .content .blog .post-highlights {
     padding: 3.5rem;
 }
 
-main .home .content .blog .post-highlights .post-top{
+main .home .content .blog .post-highlights .post-top {
     flex-basis: 20%;
 }
 
-main .home .content .blog .data { 
+main .home .content .blog .data {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -215,31 +215,31 @@ main .home .content .blog .data {
     margin-block: .5rem;
 }
 
-main .home .content .blog .titulo { 
+main .home .content .blog .titulo {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 36px; 
+    line-height: 36px;
     color: var(--purple-bg);
     margin-block: .5rem;
 }
 
-main .home .content .blog  .texto {
+main .home .content .blog .texto {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px; 
+    line-height: 24px;
     color: var(--black);
     margin-block-end: 3rem;
 }
 
-main .home .content .blog .post-highlights .post-side{
-     flex: .5;
+main .home .content .blog .post-highlights .post-side {
+    flex: .5;
 }
 
-main .home .content .blog .posts{
+main .home .content .blog .posts {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -247,17 +247,60 @@ main .home .content .blog .posts{
     padding: .5rem;
 }
 
-main .home .content .blog .posts .post{    
+main .home .content .blog .posts .post {
     flex-basis: 18%;
 }
 
 footer {
     margin-top: auto;
-    background: gray;
-    color: white;
-    height: 8rem;
+    background: var(--dark-bg);
+    color: var(--light-purple);
+    height: 22rem;
     flex: 1;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+footer .social ul { 
+    left: 50%; 
+    list-style: none;
+    color: var(--black);
+}
+
+footer .social ul li {
+    float: left;
+    padding: 3px;
+}
+
+footer .social ul li a { 
+    float: left;
+    background: var(--green);
+    width: 58px;
+    height: 58px;
+    text-align: center;
+    color: var(--black);
+    padding: 0 0 30px 0;
+}
+
+footer .social ul li a:hover {
+    color: var(--white);
+}
+
+.fa-instagram,
+.fa-github,
+.fa-linkedin {
+    padding: 10px;
+}
+
+footer .social ul li.instagram a:hover {
+    background: #bc2a8d;
+}
+
+footer .social ul li.github a:hover {
+    background: var(--black);
+}
+
+footer .social ul li.linkedin a:hover {
+    background: #1c66c2;
 }
