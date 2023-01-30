@@ -91,13 +91,13 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login form" title="#login-form" src="./.github/versao-0.1.1.jpg" width="400px"> 
+  <img alt="login form" title="#login-form" src="./.github/desktop-1.jpg" width="400px"> 
 </p>  
 
 - Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login form" title="#rocketnews" src="./.github/versao-mobile-0.1.1.jpg" height="400px"> 
+  <img alt="login form" title="#rocketnews" src="./.github/mobile-1.jpg" height="400px"> 
 </p>  
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
