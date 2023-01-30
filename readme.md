@@ -27,7 +27,7 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 
 ### 💡 Conteúdos Aplicados
 
-- [ ] [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html)
+- [ ] [O guia estelar de HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html): fazendo
 - [ ] [O guia estelar de CSS](https://app.rocketseat.com.br/node/o-guia-estelar-de-css)
 - [ ] [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes)
 - [ ] [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)
@@ -45,7 +45,7 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
 #### ✅ **Requisitos para o [desafio](https://efficient-sloth-d85.notion.site/Desafio-RocketBlog-807e38809814423e80469b080444db5e):**
 
 - [x] estrutura do html
-- [ ] menu
+- [ ] menu : fazendo
 - [ ] home
 - [ ] destaques
 - [ ] posts
