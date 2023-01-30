@@ -47,7 +47,7 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
 - [x] estrutura do html
 - [x] header 
 - [x] container
-- [ ] destaques
+- [x] destaques
 - [ ] posts
 - [ ] responsividade das divs
 - [ ] responsividade das imagens

@@ -142,7 +142,7 @@ main .home .container .text-group .titulo {
 }
 
 main .home .container .text-group .texto {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -191,6 +191,52 @@ main .home .container .feature-image {
 main .home .content {
     background: var(--light-purple);
     color: var(--black);
+}
+
+main .home .content .blog .post-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5rem;
+    justify-content: center;
+    padding: 3.5rem;
+}
+
+main .home .content .blog .post-highlights .post-top{
+    flex-basis: 20%;
+}
+
+main .home .content .blog .data { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--black);
+    margin-block: .5rem;
+}
+
+main .home .content .blog .titulo { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px; 
+    color: var(--purple-bg);
+    margin-block: .5rem;
+}
+
+main .home .content .blog  .texto {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    color: var(--black);
+    margin-block-end: 3rem;
+}
+
+main .home .content .blog .post-highlights .post-side{
+     flex: .5;
 }
 
 footer {
