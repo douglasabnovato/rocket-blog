@@ -32,9 +32,9 @@ Neste desafio você irá desenvolver uma homepage para um blog.
 - [x] [Posicionando foguetes](https://app.rocketseat.com.br/node/posicionando-foguetes)
 - [x] [Formulários de outro planeta](https://app.rocketseat.com.br/node/formularios-de-outro-planeta)
 - [x] [Alinhando os planetas](https://app.rocketseat.com.br/node/flexbox)
-- [ ] [App bonito, até nos textos](https://app.rocketseat.com.br/node/flexbox) : fazendo
-- [ ] [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [x] [App bonito, até nos textos](https://app.rocketseat.com.br/node/flexbox)
+- [x] [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [x] [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### ✅ **Requisitos**
 
