@@ -5,76 +5,163 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./assets/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="./assets/robot.svg" type="image/x-icon">
     <link rel="stylesheet" href="./style.css">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>  
     <title>Devs</title>
 </head>
 
 <body>
-    <div class="main">
+
+    <header>
+        <nav>
+            <span><img src="./assets/logo.svg" alt=""></span>
+            <ul>
+                <li>Home</li>
+                <li>Sobre</li>
+                <li>Categorias</li>
+                <li>Contato</li>
+            </ul>
+            <form class="search" action="/action_page.php">
+                <input type="text" placeholder="Buscar" name="search">
+                <button type="submit"></button>
+            </form>
+        </nav>
+    </header>
+
+    <main>
+
         <div class="home">
-            <header class="header">
-                <span>Logo</span>
-                <ul>
-                    <li>Home</li>
-                    <li>Sobre</li>
-                    <li>Categorias</li>
-                    <li>Contato</li>
-                </ul>
-                <span>Busca</span>
-            </header>
-            <container class="container">
-                <text-group class="text-group">
-                    <div class="titulo"></div>
-                    <div class="texto"></div>
-                    <div class="link"></div>
-                </text-group>
-                <feature-image class="feature-image">
-                    <img src="" alt="">
-                </feature-image>
-            </container>
-        </div>
-        <div class="content">
-            <div class="blog">
-                <div class="post-top">
-                    <img src="" alt="">
-                    <div class="data">data</div>
-                    <div class="titulo">titulo</div>
-                    <div class="texto">texto</div>
-                </div>
-                <div class="side-post">
-                    <div class="side">
-                        <div class="data">data</div>
-                        <div class="titulo">titulo</div>
-                        <div class="texto">texto</div>
+
+            <div class="container">
+
+                <div class="text-group">
+                    <div class="titulo">
+                        Veja o guia definitivo para conquistar seus objetivos como DEV em 2022
                     </div>
-                    <div class="side">
-                        <div class="data">data</div>
-                        <div class="titulo">titulo</div>
-                        <div class="texto">texto</div>
+                    <div class="texto">
+                        <div class="paragrafo">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu in aliquet ut
+                            adipiscing
+                            neque. Sed volutpat aenean sit vitae, sed tristique placerat hac. </div>
+                        <div class="link">
+                            <span>Veja mais</span><a href="#"><img src="./assets/arrow-right.svg" alt=""></a>
+                        </div>
                     </div>
                 </div>
-                <div class="post">
-                    <img src="" alt="">
-                    <div class="data">data</div>
-                    <div class="titulo">titulo</div>
-                    <div class="texto">texto</div>
+
+                <div class="feature-image">
+                    <img src="./images/featured-image.png" alt="">
                 </div>
-                <div class="post">
-                    <img src="" alt="">
-                    <div class="data">data</div>
-                    <div class="titulo">titulo</div>
-                    <div class="texto">texto</div>
-                </div>
-                <div class="post">
-                    <img src="" alt="">
-                    <div class="data">data</div>
-                    <div class="titulo">titulo</div>
-                    <div class="texto">texto</div>
-                </div>
+
             </div>
+
+            <div class="content">
+
+                <div class="blog">
+
+                    <div class="post-highlights">
+
+                        <div class="post-top">
+                            <img src="./images/post-1.png" alt="">
+                            <div class="data">Janeiro 04, 2022</div>
+                            <div class="titulo">
+                                Começando no ReactJS em 2022
+                            </div>
+                            <div class="texto">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu in
+                                aliquet ut adipiscing neque. Sed volutpat aenean sit vitae, sed tristique nibh nibh eu
+                                in aliquet ut adipiscing neque. Sed volutpat aenean sit vitae, sed tristique. Sed
+                                volutpat aenean.
+                            </div>
+                        </div>
+
+                        <div class="post-side">
+                            <div class="side">
+                                <div class="data">Janeiro 04, 2022</div>
+                                <div class="titulo">
+                                    Conheça as principais técnicas para conseguir uma vaga internacional
+                                    em programação
+                                </div>
+                                <div class="texto">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu
+                                    in aliquet ut adipiscing neque. Sed volutpat aenean sit vitae, sed tristique.
+                                </div>
+                            </div>
+
+                            <div class="side">
+                                <div class="data">Janeiro 04, 2022</div>
+                                <div class="titulo">
+                                    Veja a evolução do Front-end na prática
+                                </div>
+                                <div class="texto">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu in aliquet ut
+                                    adipiscing neque.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="posts">
+
+                        <div class="post">
+                            <img src="./images/post-2.png" alt="">
+                            <div class="data">Janeiro 04, 2022</div>
+                            <div class="titulo">10 dicas para conseguir a vaga desejada</div>
+                            <div class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu in
+                                aliquet ut adipiscing neque. Sed volutpat aenean sit vitae, sed tristique. </div>
+                        </div>
+
+                        <div class="post">
+                            <img src="./images/post-3.png" alt="">
+                            <div class="data">Janeiro 04, 2022</div>
+                            <div class="titulo">Deixe seu código mais semântico com essas dicas</div>
+                            <div class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu in
+                                aliquet ut adipiscing neque. Sed volutpat aenean sit vitae, sed tristique. </div>
+                        </div>
+
+                        <div class="post">
+                            <img src="./images/post-4.png" alt="">
+                            <div class="data">Janeiro 04, 2022</div>
+                            <div class="titulo">Use essas dicas nas suas aplicações mobile</div>
+                            <div class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh nibh eu in
+                                aliquet ut adipiscing neque. Sed volutpat aenean sit vitae, sed tristique. </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
         </div>
-    </div>
+
+    </main>
+
+    <footer>
+        <div class="social"> 
+            <ul class="line">
+                <li class="instagram">
+                    <a href="https://www.instagram.com/douglasabnovato/" target="_blank">
+                        <i class="fa fa-instagram fa-2x"></i>
+                    </a>
+                </li>
+                <li class="github">
+                    <a href="https://github.com/douglasabnovato" target="_blank">
+                        <i class="fa fa-github fa-2x"></i>
+                    </a>
+                </li>
+                <li class="linkedin">
+                    <a href="https://www.linkedin.com/in/douglasabnovato/" target="_blank">
+                        <i class="fa fa-linkedin fa-2x"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+    </footer>
+
     <script src="./script.js"></script>
 </body>
 
