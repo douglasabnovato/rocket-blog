@@ -48,11 +48,12 @@ Você pode visualizar o template do projeto no [Figma](https://www.figma.com/fil
 - [x] header 
 - [x] container
 - [x] destaques
-- [ ] posts
+- [x] posts
 - [ ] responsividade das divs
 - [ ] responsividade das imagens
 - [ ] funcionalidade search
 - [ ] seção rodá
+- [ ] perfect pixel
 
 ### 🎨 Style Guide
 
